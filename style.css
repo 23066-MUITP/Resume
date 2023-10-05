@@ -1,0 +1,75 @@
+/* Global styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f7f7f7; /* Light gray background */
+    color: #333; /* Dark gray text color */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* White container background */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle elevation effect */
+}
+
+h1 {
+    font-size: 32px;
+    color: #0078d4; /* Blue for headings */
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 18px;
+    color: #555; /* Slightly darker gray text color */
+    margin-bottom: 10px;
+}
+
+/* Background color for the entire webpage */
+html {
+    background-color: #eaeaea; /* Light gray background for the entire webpage */
+}
+
+/* Header styles */
+header {
+    border-bottom: 2px solid #0078d4;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background-color: #f2f2f2; /* Light gray background for header */
+}
+
+/* Section styles */
+section {
+    border-bottom: 1px solid #ccc; /* Light gray border between sections */
+    padding: 20px;
+    background-color: #f9f9f9; /* Light gray background for sections */
+}
+
+/* List styles */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #555; /* Slightly darker gray text color for the footer */
+    background-color: #f2f2f2; /* Light gray background for footer */
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
